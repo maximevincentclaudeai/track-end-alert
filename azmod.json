@@ -2,7 +2,7 @@
   "azmod": 1,
   "id": "mvcai-track-end-alert",
   "name": "Track End Alert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "maximevincentclaudeai",
   "summary": "Shows a red alert for 2 seconds when a playing track has 10, 15, 30, 45 or 60 seconds left.",
   "description": "Shows a red banner on the screen for 2 seconds when a playing track reaches the time left you chose (10, 15, 30, 45 or 60 seconds). Adds rows under Mod Menu > Community Mods: on/off, the delay and a test button.\n\nIt only reads deck state through the core's services and draws one overlay. It does not patch the deck's code, change controls or audio, or use the network.",
