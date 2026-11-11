@@ -7,13 +7,13 @@
     {
       "id": "mvcai-track-end-alert",
       "name": "Track End Alert",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "maximevincentclaudeai",
       "summary": "Shows a red alert for 2 seconds when a playing track has 10, 15, 30, 45 or 60 seconds left.",
-      "icon": "https://github.com/maximevincentclaudeai/track-end-alert/releases/download/mvcai-track-end-alert-1.0.0/mvcai-track-end-alert-1.0.0-icon.png",
-      "package": "https://github.com/maximevincentclaudeai/track-end-alert/releases/download/mvcai-track-end-alert-1.0.0/mvcai-track-end-alert-1.0.0.azmod",
-      "sha256": "84898cbfb305a93f0b4498a66135218dcfc888f3e4707f9f114e5675267249af",
-      "size": 51200,
+      "icon": "https://github.com/maximevincentclaudeai/track-end-alert/releases/download/mvcai-track-end-alert-1.0.1/mvcai-track-end-alert-1.0.1-icon.png",
+      "package": "https://github.com/maximevincentclaudeai/track-end-alert/releases/download/mvcai-track-end-alert-1.0.1/mvcai-track-end-alert-1.0.1.azmod",
+      "sha256": "4ba7d78b9e8f11ddf2191af8781433803ad0b354dc0cebca398425cf031e2f92",
+      "size": 55776,
       "firmware": [
         "any"
       ],
